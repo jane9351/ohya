@@ -1,0 +1,1 @@
+/root/ohya/init.lua
